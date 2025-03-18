@@ -1,6 +1,6 @@
 # Drive-Select
 
-OBS: eu descobri posterior ao dar inicio ao desenvolvimento que o projeto tinha que estar em um só repo. Por isso terminei o desenvolvimento nos repos separados e movi eles para esse repo.
+OBS: Esse é um repositório único do front e back, abaixo tem os links dos repos separados:
 
 [Repo Back](https://github.com/bammido/DriveSelect-Back)
 
