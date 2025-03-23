@@ -17,7 +17,7 @@
 
 A ideia é simples: um aplicativo web de viagens, semelhante ao Uber, onde usuários podem solicitar corridas.
 
-## Como rodar?
+## ⚙️ Como rodar?
 
 ### Pré-requisitos:
 
