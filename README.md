@@ -1,8 +1,7 @@
 # 📍🗺️ Drive-Select
 
 <div align="center">
-
-<img src="./.gitassets/driveSelect-logo.png">
+<img src="https://raw.githubusercontent.com/bammido/driveSelect/main/.gitassets/driveSelect-logo.png">
 
 <div data-badges>
     <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white">
